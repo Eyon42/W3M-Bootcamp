@@ -79,31 +79,39 @@ Ahora que pasamos de la introducción básica y casos de usos
 Para interactuar con las diversas blockchains necesitamos tener una dirección. Y para probar que somos los dueños de esa dirección necesitamos una llave privada. Metamask es una aplicación que se encarga de almacenar tu llave privada y a la vez facilitar la interacción con múltiple blockchains.
 - [Descargar Metamask](https://metamask.io/download/)
 
-### Videos
+### Videos:
 - Instalar Metamask
 - Agregar Redes
 
-## Básicos de solidity
+### Recursos sugeridos:
+- [Criptografía de llave pública (video)](https://www.youtube.com/watch?v=GSIDS_lvRv4)
+- [Documentación de Metamask](https://docs.metamask.io/guide/#why-metamask)
 
-### Ideas
+## Introducción práctica a Solidity
+Esta introducción asume conocimentos básicos sobre programción y se enfoca en usar el conocimiento existente de otros lenguajes de programación explicando cuales son las similaridades y diferencias de Solidity. Consiste de una serie de videos analizando Smart Contracts y explicando su funcionamiento linea por linea.
 
-Contrato -> Objeto: Solidity es OOP, por lo que cada contrato es un objeto desde una perspectiva de OOP. La reutilización y organización de código se logra partiendo el contrato en múltiples objetos y usando herencia para construir el contrato final.
+### Remix IDE
+Para ver y escribir Smart Contracts en este Bootcamp vamos a utilizar el IDE de Remix, el cual es Mantenido por la Ethereum Foundation
 
-Global Contract Scope -> Permanent Contract Storage
-Function scope -> Ephemeral storage
+En este repo podes encontrar el archivo `W3M-Remix-workspace.zip` el cual podrás importar en Remix y usarlo como base para seguir los videos por tu cuenta y poder hacer cambios
 
-### Analizando Smart Contracts
-- Storage
-- Owner
-- OpenZeppelin ERC20
-- OpenZeppelin ERC721
-
+### Analizando Smart Contracts (Videos)
+- [Storage]()
+- [Owner]()
+- [Ballot]()
+- [OpenZeppelin ERC20]()    
+  - [Contratos](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20)
+- [OpenZeppelin ERC721]()
+  - [Contratos](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC721)
+  
 ## Deployment
-- Agregar redes en Metamask
-- Deployment
+- [Agregar redes en Metamask]()
+- [Deployment]()
 
 ## Integración
-- Ejemplo de integración con React y wagmi hooks
+Ejemplo de integración con React y wagmi hooks
+- [Repositorio de GitHub](https://github.com/Eyon42/W3M-bootcamp-ejemplo)
+- [Video]()
 
 # Recursos
 
@@ -117,6 +125,9 @@ Function scope -> Ephemeral storage
 ### [Crypto Zombies]((https://cryptozombies.io/))
 Una excelente plataforma para aprender a programar en solidity a través de ejercios en un editor de código online. Todo alrededor del objetivo de crear un videojuego de zombies utilizando Smart Contracts.
 
+### [Contratos de OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts/)
+Colección de Smart Contracts mantenidos por [OpenZeppelin](https://www.openzeppelin.com/), una de las principales empresas de seguridad en Smart Contracts. Pueden encontrar los contratos en la capeta `contracts`, ahí pueden entrar a alguna de las subcarpetas como `token` para ver los contratos de la categoría.
+
 ### Patrick Collins
 Uno de los más grandes educadores de la comunidad blockchain, hace años que hace contenido sobre programación en [su canal de YouTube](https://www.youtube.com/c/PatrickCollins) y además de eso ha hecho dos colaboraciones ENORMES con [FreeCodeCamp](https://freecodecamp.org):
 
@@ -125,6 +136,9 @@ Uno de los más grandes educadores de la comunidad blockchain, hace años que ha
 
 ### [Ethernaut](https://ethernaut.openzeppelin.com/)
 Una serie de desafíos para desafiar y profundizar tu conocimiento sobre el funcionamiento interno de Solidity y como identificar, prevenir (o explotar) fallas de seguridad en Smart Contracts.
+
+### [Smart Contract Security best practices](https://consensys.github.io/smart-contract-best-practices/)
+A list of recommendations written by ConsenSys, the team behind Metamask.
 
 ## Oportunidades
 Ahora que ya estás equipado con un buen punto de partida y muchos recursos, te sugerimos que tomes el siguiente paso y comiences a poner en práctica tus conocimientos.
