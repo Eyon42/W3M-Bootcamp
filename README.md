@@ -88,12 +88,12 @@ Para interactuar con las diversas blockchains necesitamos tener una dirección. 
 Para el primer día del bootcamp, teniendo en cuenta la variedad de niveles, proponemos múltiples rutas de familiaridad con la programación y el lenguaje solidity. Presentamos los materiales en este documento y les sugerimos que si pueden comenzar a verlos y probarlos durante la semana, lo hagan. Después, durante el bootcamp van a poder continuar y tener a los mentores para despejar dudas. 
 
 ### Niveles
-#### **No se Solidity**
+#### **No sé Solidity**
 Si no sos programador, o recién estás arrancando con Solidity, podés comenzar por aca.
 
 [Crypto Zombies](https://cryptozombies.io/en/course/) es una plataforma interactiva en la que podés aprender a programar en Solidity a través de pequeñas lecciones escribiendo código en el Navegador. Recomendamos completar las primeras dos lecciones antes del bootcamp.
 
-#### **Se solidity**
+#### **Sé solidity**
 Si ya tenés experiencia con Solidity y haz escrito un par de Smart contracts te proponemos el desafío de comenzar a aprender más sobre seguridad utilizando [Ethernaut](https://ethernaut.openzeppelin.com/).
 
 Tip: antes del evento buscá un poco de Ether de prueba en la red Goerli con los siguientes faucets:
