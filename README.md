@@ -79,30 +79,33 @@ Ahora que pasamos de la introducción básica y casos de usos
 Para interactuar con las diversas blockchains necesitamos tener una dirección. Y para probar que somos los dueños de esa dirección necesitamos una llave privada. Metamask es una aplicación que se encarga de almacenar tu llave privada y a la vez facilitar la interacción con múltiple blockchains.
 - [Descargar Metamask](https://metamask.io/download/)
 
-### Videos:
-- Instalar Metamask
-- Agregar Redes
-
 ### Recursos sugeridos:
 - [Criptografía de llave pública (video)](https://www.youtube.com/watch?v=GSIDS_lvRv4)
 - [Documentación de Metamask](https://docs.metamask.io/guide/#why-metamask)
 
 ## Introducción práctica a Solidity
-Esta introducción asume conocimentos básicos sobre programción y se enfoca en usar el conocimiento existente de otros lenguajes de programación explicando cuales son las similaridades y diferencias de Solidity. Consiste de una serie de videos analizando Smart Contracts y explicando su funcionamiento linea por linea.
+
+Para el primer día del bootcamp, teniendo en cuenta la variedad de niveles, proponemos múltiples rutas de familiaridad con la programación y el lenguaje solidity. Presentamos los materiales en este documento y les sugerimos que si pueden comenzar a verlos y probarlos durante la semana, lo hagan. Después, durante el bootcamp van a poder continuar y tener a los mentores para despejar dudas. 
+
+### Niveles
+#### **No se Solidity**
+Si no sos programador, o recién estás arrancando con Solidity, podés comenzar por aca.
+
+[Crypto Zombies](https://cryptozombies.io/en/course/) es una plataforma interactiva en la que podés aprender a programar en Solidity a través de pequeñas lecciones escribiendo código en el Navegador. Recomendamos completar las primeras dos lecciones antes del bootcamp.
+
+#### **Se solidity**
+Si ya tenés experiencia con Solidity y haz escrito un par de Smart contracts te proponemos el desafío de comenzar a aprender más sobre seguridad utilizando [Ethernaut](https://ethernaut.openzeppelin.com/).
+
+Tip: antes del evento buscá un poco de Ether de prueba en la red Goerli con los siguientes faucets:
+- https://goerlifaucet.com/
+- https://faucets.chain.link/
+- https://goerli-faucet.pk910.de/
+
+#### **Tengo un nivel avanzado de Solidity y seguridad en Smart Contracts**
+Si estás aca, ya sabés bastante y nuesta única recomendación es que aproveches este tiempo para probar cosas nuevas con la ayuda de los mentores.
 
 ### Remix IDE
 Para ver y escribir Smart Contracts en este Bootcamp vamos a utilizar el IDE de Remix, el cual es Mantenido por la Ethereum Foundation
-
-En este repo podes encontrar el archivo `W3M-Remix-workspace.zip` el cual podrás importar en Remix y usarlo como base para seguir los videos por tu cuenta y poder hacer cambios
-
-### Analizando Smart Contracts (Videos)
-- [Storage]()
-- [Owner]()
-- [Ballot]()
-- [OpenZeppelin ERC20]()    
-  - [Contratos](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20)
-- [OpenZeppelin ERC721]()
-  - [Contratos](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC721)
   
 ## Deployment
 - [Agregar redes en Metamask]()
