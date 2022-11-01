@@ -78,6 +78,7 @@ Ahora que pasamos de la introducción básica y casos de usos
 ## Manejando llaves privadas: Metamask
 Para interactuar con las diversas blockchains necesitamos tener una dirección. Y para probar que somos los dueños de esa dirección necesitamos una llave privada. Metamask es una aplicación que se encarga de almacenar tu llave privada y a la vez facilitar la interacción con múltiple blockchains.
 - [Descargar Metamask](https://metamask.io/download/)
+- [Video Instructivo](https://youtu.be/91Lz4D8PpcQ)
 
 ### Recursos sugeridos:
 - [Criptografía de llave pública (video)](https://www.youtube.com/watch?v=GSIDS_lvRv4)
