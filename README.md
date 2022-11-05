@@ -165,3 +165,7 @@ Luego de participar en hackathones y adquirir un poco de experiencia se abrirán
 ¿Alguna de las herramientas que usaste tenía bugs o no se ajustaba a tu caso de uso? Entonces esto es una oportunidad perfecta para intentar hacer el cambio y mejorar esta herramienta y hacer una Pull Request para que se incorpore. En este proceso, aunque no logres resolver el problema o tu solucion no sea aceptada, lograrás profundizar tu entendimiento de como funciona la herramienta y el problema que resuleve y mejoraras tus habilidades para trabajar en conjunto con otras personas.
 
 Otra opción es también buscar algún proyecto que esté buscando desarrolladores e intentar incorporarte. Estos proyectos pueden ser de amigos, start-ups, empresas, DAOs y hasta ONG. Lo importante es seguir aprendiendo y dedicarse a aplicar ese conocimiento.
+
+# Feedback
+
+Pueden entrar a [este link](https://forms.gle/KWVSJwwGN8kay8r19) para darnos feedback del bootcamp.
